@@ -1,4 +1,11 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+statsmodels
+scikit-learn
+prophet
+catboost==1.1.1
+pyproject-toml
+xgboost
+# -e .
