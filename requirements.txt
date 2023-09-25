@@ -10,4 +10,5 @@ pyproject-toml
 xgboost
 dill
 Flask
+pickle5
 # -e .
