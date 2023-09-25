@@ -9,4 +9,5 @@ catboost==1.1.1
 pyproject-toml
 xgboost
 dill
+Flask
 # -e .
