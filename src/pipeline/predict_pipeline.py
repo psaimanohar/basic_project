@@ -1,3 +1,4 @@
+import os
 import sys
 import pandas as pd
 from src.exception import CustomException
@@ -34,7 +35,7 @@ class CustomData:
         test_preparation_course: str,
         reading_score: int,
         writing_score: int):
-
+        
         self.gender = gender
 
         self.race_ethnicity = race_ethnicity
